@@ -1,0 +1,120 @@
+.navbar{
+    align-items: center;
+    display: flex;
+    padding: 10px;
+}
+.nav {
+    flex: 1;
+text-align: right;
+text-decoration: none;
+
+}
+.nav ul{
+    display: inline-block;
+    font-size: 20px;
+}
+.nav ul li{
+    align-items: end;
+    display: inline-block;
+    padding: 20px;
+    text-decoration-line: none;
+    
+}
+.a li{
+    text-decoration: none;
+}
+.container{
+    margin: auto;
+    padding: 25px;
+    padding: 25px;
+}
+.row{
+    display: block;
+    align-items: center;
+
+}
+.col2{
+    font-size: medium;
+    
+
+}
+.col2 img{
+    padding-left: 100px;
+}
+.header {
+    border-radius: 10px;
+    background-color: rgb(202, 37, 37);
+}
+.btn   {
+    padding: 8px 30px;
+    background-color:rgb(13, 13, 212);
+    border-radius: 30px;
+    margin: 30px 0;
+    color: white;
+    
+}
+.btn :hover{
+    color: rgb(209, 10, 10);
+    transform: translate(0.2s);
+    
+}
+
+.categories {
+    max-width: 1080px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.col-3{
+    flex-basis: 30%;
+    min-width: 250px;
+    margin: bottom 30px;
+    display: inline-block;
+    padding-left:60px;
+    padding-right:0px;
+}
+.col-3 img{
+    margin-top: 8px;
+    width: 170px;
+
+}
+.small container{
+    margin: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+.product{
+    padding: 4px 0;
+    margin: auto;
+}
+.col-4{
+    flex-basis: 50px;
+    margin-bottom: 5px;
+    display: inline-block;
+    padding-left: 40px;
+    padding-right: 20px;
+    transform: translate(0.2s);
+}
+.head{
+    text-align: center;
+}
+.goods{
+    margin-top: 3px;
+    padding-left: 200px;
+    flex-basis: 10px;
+}
+.boder{
+    background-color: blueviolet;
+}
+.testemonies{
+    margin-top:5px ;
+    padding-left: 30px;
+}
+.COL-5{
+    flex-basis: 10PX;
+    display: inline-block;
+}
+.tag{
+    text-align: center;
+}
